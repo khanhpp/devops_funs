@@ -10,9 +10,9 @@ date_time = strftime("%Y-%m-%d %H:%M:%S", gmtime())
 #sns_message_file = sys.argv[1]
 
 #AWS Credential
-REGION = 'us-east-1'
-ACCESS_KEY = 'AKIAID2XCCWCWOQZ2IEQ'
-SECRET_KEY = '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'
+REGION = ''
+ACCESS_KEY = ''
+SECRET_KEY = ''
 ARN = 'arn:aws:sns:us-east-1:633834615594:svmc-dba'
 
 #Message contents
